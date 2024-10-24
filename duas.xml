@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<dua>
+
+    <duas index="1" >
+       
+        <aya
+            duaId="1"
+            duaTransliteration="Bismillaahi wa alaa Barakatillaah."
+            englishTranslation="In the name of Allah and with His blessings."
+            duaTitle="Before Eating"
+            duaArabic=" بِسْمِ اللَّهِ وَعَلَى بَرَكَةِ اللَّهِ"
+            additionalInfo="na" 
+            duaRefrence="Ibn Majah No# 3264 In-book reference: Book 29, Hadith 3388 English reference: Vol. 4, Book 29, Hadith 3264" >
+        </aya>
+        <aya
+            duaId="2"
+            duaTransliteration="allaahummaṭ-wi lahul-ba‛eeda, wa hawwin ‛alayhi-ssafar"
+            englishTranslation="O Allah shorten the distant for him and ease his journey"
+            duaTitle="Travelling"
+            duaArabic="ٱللَّهُمَّ اطْوِ لَهُ الأَرْضَ وَهَوِّنْ عَلَيْهِ السَّفَرَ"
+            additionalInfo="Abu Hurairah [may Allah be pleased with him] narrated that :a man said: “O Messenger of Allah (ﷺ), I intend to travel, so advise me.” He said, “Hold fast to the Taqwa of Allah, and (say the) Takbir upon every elevated place.” So when the man turned away he said: “O Allah make near for him the distance, and ease for him the journey (Allāhummaṭwi lahul-arḍa wa hawwin `alaihis-safar).”"
+            duaRefrence="Jami` at-Tirmidhi 3445, In-book reference : Book 48, Hadith 76, English translation : Vol. 6, Book 45, Hadith 3445" >
+        </aya>
+         <aya
+            duaId="3"
+            duaTransliteration="Innee Saa’im, Innee Saa’im"
+            englishTranslation="I am fasting, I am fasting."
+            duaTitle="Fasting"
+            duaArabic="إِنِّي صَائِمٌ ، إِنِّي صَائِمٌ"
+            additionalInfo="na" 
+            duaRefrence="Sahih Muslim 1151 a In-book reference: Book 13, Hadith 209 English reference: Book 6, Hadith 2563" >
+        </aya>
+         <aya
+            duaId="4"
+            duaTransliteration="Allaahumma Hawlanaa Wa laa ‛Alaynaa, Allaahumma ‛Alal-Aakaami Waz-Ziraabi, Wa Butoonil-Awdiyati, Wa Manaabitish-Shajar"
+            englishTranslation="O Allah, let the rain fall around us and not upon us, O Allah, (let it fall) on the pastures, hills, valleys and the roots of trees"
+            duaTitle="Rain"
+            duaArabic="ٱللَّهُمَّ حَوْلَنَا وَلَا عَلَيْنَا ، اللَّهُمَّ عَلَى الآ كَامِ وَالظِّرَابِ ، وَبُطُونِ الأَوْدِيَةِ ، وَمَنَابِتِ الشَّجَرِ"
+            additionalInfo="na" 
+            duaRefrence="Sahih al-Bukhari 1013 In-book reference: Book 15, Hadith 8 English reference: Vol. 2, Book 17, Hadith 126" >
+        </aya>
+         <aya
+            duaId="5"
+            duaTransliteration="u‛eedhuka bi kalimaat-illaahit-taammati min kulli shaytaanin, wa haammatin, wa min kulli ‛aynin laammah "
+            englishTranslation="I commend you to the protection of Allah’s perfect words from every devil, vermin, and every evil eye"
+            duaTitle="Family"
+            duaArabic="أُعِيذُكَ بِكَلِمَاتِ اللهِ التَّامَّةِ مِنْ كُلِّ
+شَيْطَانٍ ، وَهَامَّةٍ ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ"
+            additionalInfo="The Prophet (ﷺ) used to seek Refuge with Allah for Al-Hasan and Al-Husain and say: Your forefather (i.e. Abraham) used to seek Refuge with Allah for Ishmael and Isaac by reciting the following: 'O Allah! I seek Refuge with Your Perfect Words from every devil and from poisonous pests and from every evil, harmful, envious eye.' " 
+            duaRefrence="Sahih al-Bukhari 3371 In-book reference  : Book 60, Hadith 50 USC-MSA web (English) reference  : Vol. 4, Book 55, Hadith 590" >
+        </aya>
+        
+       
+       
+    </duas>
+    
+
+</dua>
