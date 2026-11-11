@@ -110,11 +110,6 @@
     "sentence": "Taking three advanced classes and working part-time means he bit off more than he could chew."
   },
   {
-    "idiom": "Blessing in disguise",
-    "meaning": "An apparent misfortune that eventually turns out to be good.",
-    "sentence": "Losing that job was a blessing in disguise as it led to my dream career."
-  },
-  {
     "idiom": "Burning bridges",
     "meaning": "Damaging a relationship beyond repair.",
     "sentence": "Never burn bridges when leaving a company, as you never know who you'll work with again."
@@ -175,19 +170,9 @@
     "sentence": "I agree with your plan, but let me play devil's advocate for a moment."
   },
   {
-    "idiom": "Doubting Thomas",
-    "meaning": "A skeptic who refuses to believe something without direct physical proof.",
-    "sentence": "He wouldn't believe the machine worked until he used it himself, true to being a doubting Thomas."
-  },
-  {
     "idiom": "Drop in the bucket",
     "meaning": "A very small, inadequate amount compared to what is needed.",
     "sentence": "Donations were helpful, but they were just a drop in the bucket."
-  },
-  {
-    "idiom": "Dressed to kill",
-    "meaning": "Wearing striking, glamorous clothes.",
-    "sentence": "She showed up at the gala dressed to kill."
   },
   {
     "idiom": "Easier said than done",
@@ -225,49 +210,9 @@
     "sentence": "I won't be coming to work today because I'm feeling a bit under the weather."
   },
   {
-    "idiom": "Fit as a fiddle",
-    "meaning": "In good health.",
-    "sentence": "Despite his age, my grandfather is as fit as a fiddle."
-  },
-  {
-    "idiom": "Flash in the pan",
-    "meaning": "Something that promises great success but quickly fails.",
-    "sentence": "Their debut hit was just a flash in the pan; subsequent singles went unnoticed."
-  },
-  {
-    "idiom": "Flog a dead horse",
-    "meaning": "Waste energy on an unalterable situation.",
-    "sentence": "Arguing with him about this is like flogging a dead horse."
-  },
-  {
-    "idiom": "Fly on the wall",
-    "meaning": "An unnoticed observer of a particular situation.",
-    "sentence": "I'd love to be a fly on the wall during their management meeting."
-  },
-  {
-    "idiom": "Foot in the door",
-    "meaning": "A small first step toward gaining entry or success.",
-    "sentence": "Getting an internship is a great way to get your foot in the door."
-  },
-  {
-    "idiom": "For a song",
-    "meaning": "Very cheaply.",
-    "sentence": "I bought this vintage guitar at a garage sale for a song."
-  },
-  {
-    "idiom": "From scratch",
-    "meaning": "From the very beginning, without prior preparation.",
-    "sentence": "She baked the cake completely from scratch."
-  },
-  {
     "idiom": "Get cold feet",
     "meaning": "Become nervous or hesitant before a big event.",
     "sentence": "Right before the wedding, he got cold feet."
-  },
-  {
-    "idiom": "Get out of bed on the wrong side",
-    "meaning": "Be in a bad mood all day.",
-    "sentence": "Why are you so grumpy? Did you get out of bed on the wrong side?"
   },
   {
     "idiom": "Give someone the cold shoulder",
@@ -275,34 +220,14 @@
     "sentence": "She was upset with him and gave him the cold shoulder all evening."
   },
   {
-    "idiom": "Go down in flames",
-    "meaning": "Fail spectacularly.",
-    "sentence": "His business venture went down in flames after six months."
-  },
-  {
     "idiom": "Go the extra mile",
     "meaning": "Make an extra effort to achieve something.",
     "sentence": "Our customer service team always goes the extra mile to help clients."
   },
   {
-    "idiom": "Good things come to those who wait",
-    "meaning": "Patience is rewarded.",
-    "sentence": "Keep practicing your instrument; good things come to those who wait."
-  },
-  {
-    "idiom": "Greased lightning",
-    "meaning": "Extremely fast.",
-    "sentence": "When the waiter brought the food, the hungry kids ate it up like greased lightning."
-  },
-  {
     "idiom": "Green thumb",
     "meaning": "A natural talent for growing plants.",
     "sentence": "Her garden is always blooming because she has a real green thumb."
-  },
-  {
-    "idiom": "Hanging by a thread",
-    "meaning": "In a precarious or desperate situation.",
-    "sentence": "His job security was hanging by a thread after the merger."
   },
   {
     "idiom": "Have a blast",
@@ -315,11 +240,6 @@
     "sentence": "He never pays attention in class; his head is always in the clouds."
   },
   {
-    "idiom": "Hear through the grapevine",
-    "meaning": "Learn about something through informal gossip or rumors.",
-    "sentence": "I heard through the grapevine that a promotion is coming up."
-  },
-  {
     "idiom": "Hit the sack",
     "meaning": "Go to bed.",
     "sentence": "I'm exhausted; I think it's time to hit the sack."
@@ -328,177 +248,5 @@
     "idiom": "Hold your horses",
     "meaning": "Wait a moment; be patient.",
     "sentence": "Hold your horses! Let me explain before you jump to conclusions."
-  },
-  {
-    "idiom": "In hot water",
-    "meaning": "In trouble.",
-    "sentence": "He found himself in hot water after missing the deadline."
-  },
-  {
-    "idiom": "In the nick of time",
-    "meaning": "Just before it's too late.",
-    "sentence": "We reached the boarding gate in the nick of time."
-  },
-  {
-    "idiom": "Jump on the bandwagon",
-    "meaning": "Join a popular trend or activity.",
-    "sentence": "Everyone started buying electric cars, and soon all automakers jumped on the bandwagon."
-  },
-  {
-    "idiom": "Keep your chin up",
-    "meaning": "Stay optimistic in a difficult situation.",
-    "sentence": "Keep your chin up; things will get better soon."
-  },
-  {
-    "idiom": "Last straw",
-    "meaning": "The final annoyance that triggers a loss of patience.",
-    "sentence": "Being late for the third time this week was the last straw."
-  },
-  {
-    "idiom": "Let sleeping dogs lie",
-    "meaning": "Leave well enough alone; do not interfere in a stable situation.",
-    "sentence": "Don't bring up the past argument; let sleeping dogs lie."
-  },
-  {
-    "idiom": "Light at the end of the tunnel",
-    "meaning": "Signs of improvement after a long difficult period.",
-    "sentence": "Finishing my thesis feels like seeing light at the end of the tunnel."
-  },
-  {
-    "idiom": "Like two peas in a pod",
-    "meaning": "Very similar to each other.",
-    "sentence": "The twins act and talk like two peas in a pod."
-  },
-  {
-    "idiom": "Live and learn",
-    "meaning": "Acknowledge a mistake and learn from it.",
-    "sentence": "I trusted the wrong person, but live and learn."
-  },
-  {
-    "idiom": "Make a mountain out of a molehill",
-    "meaning": "Exaggerate a minor problem.",
-    "sentence": "Relax, you're making a mountain out of a molehill over a simple typo."
-  },
-  {
-    "idiom": "Miss the boat",
-    "meaning": "Miss an opportunity.",
-    "sentence": "If you don't apply today, you'll miss the boat on the scholarship."
-  },
-  {
-    "idiom": "No pain, no gain",
-    "meaning": "Suffering is necessary for success.",
-    "sentence": "Pushing through muscle fatigue during workouts proves no pain, no gain."
-  },
-  {
-    "idiom": "Off the hook",
-    "meaning": "Relieved from blame or responsibility.",
-    "sentence": "When my brother confessed, I was finally off the hook."
-  },
-  {
-    "idiom": "On cloud nine",
-    "meaning": "Extremely happy.",
-    "sentence": "She was on cloud nine after receiving the acceptance letter."
-  },
-  {
-    "idiom": "Out of the blue",
-    "meaning": "Without warning; unexpectedly.",
-    "sentence": "An old friend called me out of the blue yesterday."
-  },
-  {
-    "idiom": "Pass the buck",
-    "meaning": "Shift responsibility to someone else.",
-    "sentence": "Instead of admitting his mistake, he tried to pass the buck."
-  },
-  {
-    "idiom": "Piece of cake",
-    "meaning": "Very easy.",
-    "sentence": "The quiz was a piece of cake."
-  },
-  {
-    "idiom": "Play your cards right",
-    "meaning": "Act cleverly to achieve success.",
-    "sentence": "If you play your cards right, you might get promoted."
-  },
-  {
-    "idiom": "Put all your eggs in one basket",
-    "meaning": "Risk everything on a single venture.",
-    "sentence": "Diversify your investments; don't put all your eggs in one basket."
-  },
-  {
-    "idiom": "Raining cats and dogs",
-    "meaning": "Raining heavily.",
-    "sentence": "Don't forget your umbrella; it's raining cats and dogs outside."
-  },
-  {
-    "idiom": "Read between the lines",
-    "meaning": "Understand the hidden meaning.",
-    "sentence": "His email was polite, but reading between the lines, he was furious."
-  },
-  {
-    "idiom": "Rome wasn't built in a day",
-    "meaning": "Important work takes time.",
-    "sentence": "Be patient with your language learning; Rome wasn't built in a day."
-  },
-  {
-    "idiom": "Save for a rainy day",
-    "meaning": "Save money for future emergencies.",
-    "sentence": "Always put away some savings for a rainy day."
-  },
-  {
-    "idiom": "Eleventh hour",
-    "meaning": "At the last possible moment.",
-    "sentence": "They signed the contract at the eleventh hour."
-  },
-  {
-    "idiom": "See eye to eye",
-    "meaning": "Agree with someone.",
-    "sentence": "We don't always see eye to eye on business decisions."
-  },
-  {
-    "idiom": "Shoot for the moon",
-    "meaning": "Aim high.",
-    "sentence": "Set ambitious goals and shoot for the moon."
-  },
-  {
-    "idiom": "Steal someone's thunder",
-    "meaning": "Take attention away from someone else's success.",
-    "sentence": "Announcing your news at her party would steal her thunder."
-  },
-  {
-    "idiom": "Take it with a grain of salt",
-    "meaning": "View something with skepticism.",
-    "sentence": "Take online reviews with a grain of salt."
-  },
-  {
-    "idiom": "Through thick and thin",
-    "meaning": "Through good times and bad times.",
-    "sentence": "My best friend has supported me through thick and thin."
-  },
-  {
-    "idiom": "Time flies",
-    "meaning": "Time passes very quickly.",
-    "sentence": "I can't believe summer is already over; time flies."
-  },
-  {
-    "idiom": "Under the weather",
-    "meaning": "Feeling unwell.",
-    "sentence": "I'll stay home today because I feel under the weather."
-  },
-  {
-    "idiom": "Up in the air",
-    "meaning": "Uncertain; undecided.",
-    "sentence": "Our vacation plans are still up in the air."
-  },
-  {
-    "idiom": "When pigs fly",
-    "meaning": "Something that will never happen.",
-    "sentence": "He'll clean his room when pigs fly."
-  },
-  {
-    "idiom": "You can't judge a book by its cover",
-    "meaning": "Don't judge something by its outward appearance.",
-    "sentence": "The restaurant looked shabby, but the food was amazing—you can't judge a book by its cover."
   }
-
-
 ]
